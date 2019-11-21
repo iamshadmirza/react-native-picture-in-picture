@@ -1,0 +1,37 @@
+{
+  "name": "react-native-picture-in-picture",
+  "title": "React Native Picture In Picture",
+  "version": "0.0.1",
+  "description": "PIP is a special type of multi-window mode mostly used for video playback. It lets the user watch a video in a small window pinned to a corner of the screen while navigating between apps or browsing content on the main screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshadmirza/react-native-picture-in-picture.git",
+    "baseUrl": "https://github.com/iamshadmirza/react-native-picture-in-picture"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "bugs": {
+    "url": "https://github.com/iamshadmirza/react-native-picture-in-picture/issues"
+  },
+  "homepage": "https://github.com/iamshadmirza/react-native-picture-in-picture#readme",
+  "author": {
+    "name": "Shad Mirza",
+    "email": "iamshadmirza@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
