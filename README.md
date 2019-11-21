@@ -20,6 +20,9 @@ If you want support PIP in your app, register your video activity in your manife
     ...
 ```
 
+## IOS Setup
+// TODO
+
 ### Mostly automatic installation
 
 `$ react-native link react-native-picture-in-picture`
